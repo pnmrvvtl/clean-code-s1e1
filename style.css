@@ -21,9 +21,11 @@
 }
 
 @media (max-width: 768px) {
+
   .information {
-    text-align: center;
+    text-align:center;
   }
+
 }
 
 .main-element {
